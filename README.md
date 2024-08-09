@@ -1,19 +1,16 @@
-# Hi there, I'm Bardia - aka Bardiesel <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Hi there, I'm Paolo <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-## I'm a Backend Developer
+## I'm a Frontend Developer
 
-- 🌱 I am currently learning more about backend development.
-- 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/bardiesel/)
+- 🌱 I am currently learning more about frontend development.
+- 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/paolo-lorizzo421/)
 - 😄 Pronouns: He/Him
 
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bardiesel)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bardiesel/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/realbardiesel)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Bardiesel)
-
-[![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paololorizzo)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolo-lorizzo421/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/paololor)
 
 ---
 
@@ -35,27 +32,28 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: America/Chicago
+🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+NextJS
 
-🔥 Editors: 
-No Activity Tracked This Week
 ```
-
-
- Last Updated on 08/08/2024 18:42:51 UTC
 <!--END_SECTION:waka-->
 
 
 ---
 
 
-[![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
+[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)]()
+[![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
+[![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()
+[![Intellij Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)]()
 
 
 <img src="https://imgur.com/rilHVxA.png"/> 
