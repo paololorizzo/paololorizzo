@@ -1,0 +1,26 @@
+[
+ {
+  "name": "paololorizzo",
+  "description": "",
+  "stars": 0,
+  "url": "https://github.com/paololorizzo/paololorizzo",
+  "language": "Python",
+  "color": "#3572A5"
+ },
+ {
+  "name": "concorso-quiz-template",
+  "description": "Applicazione web pronta da riusare per creare simulatori quiz da una banca dati PDF.",
+  "stars": 0,
+  "url": "https://github.com/paololorizzo/concorso-quiz-template",
+  "language": "TypeScript",
+  "color": "#3178c6"
+ },
+ {
+  "name": "budget-manager",
+  "description": "",
+  "stars": 0,
+  "url": "https://github.com/paololorizzo/budget-manager",
+  "language": "TypeScript",
+  "color": "#3178c6"
+ }
+]
