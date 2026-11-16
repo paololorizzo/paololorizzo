@@ -1,0 +1,61 @@
+{
+  "username": "paololorizzo",
+  "name": "Paolo Lorizzo",
+  "prompt": "~/paololorizzo $ whoami",
+  "role": "Full-stack developer",
+  "tagline": [
+    "I build web and mobile products end to end with",
+    "TypeScript, React, Angular, Expo and Supabase.",
+    "Now going deeper into AI: LLM apps, RAG and agents."
+  ],
+  "location": "Italy",
+  "stack": [
+    {
+      "group": "frontend",
+      "items": [
+        "TypeScript",
+        "React",
+        "Angular"
+      ]
+    },
+    {
+      "group": "mobile",
+      "items": [
+        "Expo",
+        "React Native"
+      ]
+    },
+    {
+      "group": "backend",
+      "items": [
+        "Supabase",
+        "Postgres",
+        "Node.js"
+      ]
+    },
+    {
+      "group": "ai",
+      "items": [
+        "LLM APIs",
+        "RAG",
+        "Agents",
+        "MCP"
+      ],
+      "learning": true
+    }
+  ],
+  "now": [
+    {
+      "label": "building",
+      "text": "Apps with Supabase + Expo"
+    },
+    {
+      "label": "learning",
+      "text": "AI agents in TypeScript"
+    },
+    {
+      "label": "contributing",
+      "text": "Open source, ~4h a week"
+    }
+  ]
+}
